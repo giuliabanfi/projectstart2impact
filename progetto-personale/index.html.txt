@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Giulia Banfi</title>
+</head>
+<body>
+
+
+<body>
+
+  <!--Header-->
+
+  <div id='header' class="header">
+    <div class='header-size'>
+      <div class="item home">
+        <a href="index.html#header"><i class="fas fa-home"></i>
+        </a>
+      </div>
+      <ul class="menu">
+        <li class='menu-item item'>
+          <a href="index.html#portfolio">I miei lavori migliori</a>
+        </li>
+        <li class="menu-item item">
+          <a href="index.html#tech">Comunicazione</a>
+        </li>
+        <li class="menu-item item">
+          <a href="index.html#contatti">Contatti</a>
+      </ul>
+    </div>
+  </div>
+
+
+   <!--Top Part-->
+
+  <div class="top-part">
+    <p class="greetings">Sono Giulia, sono una comunicatrice pubblica e nella vita mi dedico al <span>miglioramento della comunicazione degli enti pubblici</span> <br>di pagine e applicazioni <span>web!</span>
+    </p>
+    <h2 class="name">GIULIA BANFI</h2>
+    <div class="div-selfie">
+      <img src="images/Giulia Banfi.jpg" alt="Giulia's selfie">
+    </div>
+  </div>
+
+   <!--Bio Part-->
+
+  <div id='bio-container' class="bio-part">
+    <p class="invitation-to-scroll">Scopri chi sono</p>
+    <div class="div-chevron-down"><a href='#bio-container'><i class="fas fa-chevron-down"></i></a></div>
+
+
+    <div  class='bio-container'>
+      <p>Amo il giornalismo</p>
+      <p>Amo la comunicazione</p>
+      <p>Studio la società e i social media</p>
+      <p>Scrivo per riflettere meglio<br>
+  </div>
+
+   <!--Portfolio Part-->
+
+  <div id='portfolio' class="portfolio-part">
+
+      <h2 class="greetings">Di seguito ti mostro alcuni dei miei lavori!</h2>
+
+
+      <div class="responsive-grid-container">
+        <div class="auto-grid">
+
+
+          <div class="card">
+            <a target='_blank' href='https://giuliabanfi1511.journoportfolio.com/'>
+          </div>
+
+  </div>
+
+   <!--Social Part-->
+
+  <div id='tech' class="social-part">
+    <h2 class='greetings' >Social che uso</h2>
+    <div class="responsive-grid-container">
+      <div class="auto-grid">
+        <div class="tech-icon"><i class="fab fa-Facebook"></i>FACEBOOK</div>
+        <div class="tech-icon"><i class="fab fa-Instagram"></i>INSTAGRAM</div>
+        <div class="tech-icon"><i class="fab fa-Twitter"></i>TWITTER</div>
+        <div class="tech-icon"><i class="fab fa-LinkedIn"></i>LINKEDIN</div>
+        <div class="tech-icon"><i class="fab fa-Telegram"></i>TELEGRAM</div>
+
+      </div>
+    </div>
+
+   <!--Contatti Part-->
+
+  <div class="contatti-part">
+
+    <h2 class="greetings">Seguimi!</h2>
+    <p><b>O scarica <a href="download/CV Giulia Banfi.pdf" download="">il mio curriculum.pdf!</a></b></p>
+<!--Form di contatto
+    <div class="card">
+      <div class="card-body">
+        <div class="container-fluid ">
+          <div class="row">
+
+
+              <div class=".form-control-sm mb-3">
+                <label for="exampleFormControlInput1" class="form-label">Indirizzo email</label>
+                <input type="input-my-edit email" class="form-control" id="exampleFormControlInput1" placeholder="nome@esempio.it">
+              </div>
+              <div class=".form-control-sm mb-3">
+                <label for="exampleFormControlTextarea1" class="form-label">Messaggio</label>
+                <textarea class="input-my-edit form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Ciao Giulia! Mi chiamo..."></textarea>
+              </div>
+
+                <button class="btn-sm button-personal-edit btn btn-info" type="button">Invia</button>
+
+          </div>
+        </div>
+      </div>
+    </div>
+   -->
+
+    <div  class="socials">
+      <div class="social-icon instagram">
+        <a href="https://www.instagram.com/giulia_banfi/?hl=it"><i class="fab fa-instagram"></i></a>
+      </div>
+      <div class="social-icon LinkedIn">
+        <a href="https://www.linkedin.com/in/giulia-banfi/"><i class="fab fa-LinkedIn"></i></a>
+      </div>
+      <div class="social-icon Twitter">
+        <a href="https://twitter.com/giulia_banfi"><i class="fab fa-Twitter"></i></a>
+      </div>
+    </div>
+
+  </div>
+
+</body>
+</html>
